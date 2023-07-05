@@ -1,6 +1,6 @@
 # Python Practice Projects
 
-This repository contains a collection of basic Python projects that I use to practice my Python skills. The projects are organized into folders, each of which contains a README file that describes the project.
+This repository contains a collection of Python projects that I use to practice my Python skills. The projects are organized into folders, each of which contains a README file that describes the project.
 
 ## Projects
 

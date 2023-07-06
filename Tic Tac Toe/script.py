@@ -70,13 +70,6 @@ def full_board_check(board):
     return True
 
 
-def player_choice():
-    position = 0
-    position = int(input('Choose position: (1-9)'))
-
-    return position
-
-
 def replay():
     return input('Do you want to play again? Enter Yes or No: ').lower().startswith('y')
 
@@ -105,7 +98,6 @@ while True:
                 display_board(board)
                 position = int(input('Choose position: (1-9)'))
                 place_marker(board, player1_marker, position)
-                turn = "Player 2"
 
                 if win_check(board, player1_marker):
                     display_board(board)
@@ -124,7 +116,6 @@ while True:
                 display_board(board)
                 position = int(input('Choose position: (1-9)'))
                 place_marker(board, player2_marker, position)
-                turn = "Player 2"
 
                 if win_check(board, player2_marker):
                     display_board(board)

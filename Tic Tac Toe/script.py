@@ -98,6 +98,7 @@ while True:
                 display_board(board)
                 position = int(input('Choose position: (1-9)'))
                 place_marker(board, player1_marker, position)
+                turn = "Player 2"
 
                 if win_check(board, player1_marker):
                     display_board(board)
@@ -116,6 +117,7 @@ while True:
                 display_board(board)
                 position = int(input('Choose position: (1-9)'))
                 place_marker(board, player2_marker, position)
+                turn = "Player 1"
 
                 if win_check(board, player2_marker):
                     display_board(board)

@@ -21,10 +21,15 @@ If you have any questions or feedback, please feel free to contact me at hellone
 
 This README file includes the following sections:
 
-* **Projects:** Tic Tac Toe,
-* **Getting Started:** git clone https://github.com/newwohh/python-practice-projects.git
-* **Contributing:** Feel free to contribute.
-* **Author:** Nevin Raju.
-* **Contact:** hellonevo13@gmail.com.
+* **Projects:** 
+* Tic Tac Toe,
+* **Getting Started:**
+*     git clone https://github.com/newwohh/python-practice-projects.git
+* **Contributing:**
+* Feel free to contribute.
+* **Author:**
+* Nevin Raju.
+* **Contact:**
+* hellonevo13@gmail.com.
 
 I hope this helps!

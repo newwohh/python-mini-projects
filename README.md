@@ -25,7 +25,7 @@ This README file includes the following sections:
 * **Projects:** 
  Tic Tac Toe,War
 * **Getting Started:**
-    git clone https://github.com/newwohh/python-practice-projects.git
+*    git clone https://github.com/newwohh/python-practice-projects.git
 * **Contributing:**
  Feel free to contribute.
 * **Author:**

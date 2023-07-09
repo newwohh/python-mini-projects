@@ -99,7 +99,7 @@ while game_on:
     player_one_cards.append(player_one.remove_card())
 
     player_two_cards = []
-    player_one_cards.append(player_two.remove_card())
+    player_two_cards.append(player_two.remove_card())
 
     at_war = True
 
@@ -121,13 +121,13 @@ while game_on:
         else:
             print("War")
 
-            if len(player_one.add_card) < 5:
+            if len(player_one.allcards) < 5:
                 print("Player one unable to declare war")
                 print("Player two wins")
                 game_on = False
                 break
 
-            if len(player_two.add_card) < 5:
+            if len(player_two.allcards) < 5:
                 print("Player two unable to declare war")
                 print("Player one wins")
                 game_on = False

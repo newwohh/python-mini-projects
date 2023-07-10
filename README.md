@@ -4,8 +4,9 @@ This repository contains a collection of Python projects that I use to practice 
 
 ## Projects
 
-* tictactoe.py: An interactive program for the user.
-* war.py: An interactive card game.
+* Tic Tac Toe/script.py: An interactive program for the user.
+* War/script.py: An interactive card game.
+* Blackjack/script.py: An interactive card game.
 
 ## Getting Started
 
@@ -23,7 +24,7 @@ If you have any questions or feedback, please feel free to contact me at hellone
 This README file includes the following sections:
 
 * **Projects:** 
- Tic Tac Toe,War
+ Tic Tac Toe,War,Blackjack
 * **Getting Started:**
 *     git clone https://github.com/newwohh/python-practice-projects.git
 * **Contributing:**
